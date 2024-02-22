@@ -10,15 +10,15 @@
     <header>
 <h1 class="tit-1">Projeto1</h1>
 <ul>
-    <li>Item 1</li>
+    <li class="it-1">Item 1</li>
     <li>Item 2</li>
     <li>Item 3</li>
 </ul>
-<h2>Projeto 2</h2>
+<h2 class="tit-2">Projeto 2</h2>
 <h2>Projeto 3</h2>
 <h2>Projeto 4</h2>
 </header
-<button>Item 1</button>
+<button class="botao-1">Item 1</button>
 <button>Item 2</button>
 
 </body>
